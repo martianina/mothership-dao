@@ -11,14 +11,14 @@ title: Mothership
 # Description of the Site
 description: A customizable Jekyll portfolio theme
 # URL of Image of the Site
-site-image: /mothership-dao/assets/images/meta.jpeg
+site-image: /mothership-dao/assets/images/hero.jpeg
 # Keywords of the Site
 site-keywords: DAO, Community, NFT
 # URL for the Image of custom Favicon
 favicon-url: 
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: /mothership-dao/assets/images/Mothership.jpg
+heroimage: /mothership-dao/assets/images/hero.jpg
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
 email: thedevslot@gmail.com
