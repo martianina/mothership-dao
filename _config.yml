@@ -43,9 +43,9 @@ author-name: Mothership DAO
 # URL for the Image of the Author
 author-image: https://gateway.pinata.cloud/ipfs/QmNRukqMbbBgGbFZgs1QDfw7w5x8uiP722GJt6TXxi2oXR/meta.jpg
 # 60 Words About the Author
-author-about: Mothership DAO is dedicated to providing safe, productive spaces for community members to grow and prosper, using a user-centric, privacy-by-design approach. Mothership supports artists, musicians and other creative talent as they fly in the metaverse and live in the meatspace. Join us in Discord
+author-about: Mothership DAO is dedicated to providing safe, productive spaces for community members to grow and prosper, using a user-centric, privacy-by-design approach. Mothership supports artists, musicians and other creative talent as they fly in the metaverse and live in the meatspace.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://discord.gg/G7xpDgut
+author-url: "https://discord.gg/G7xpDgut"
 # SASS
 sass:
   sass_dir: _sass

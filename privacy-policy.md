@@ -23,7 +23,7 @@ Legitimate Interests mean why the processing of personal data is necessary and b
 3. OUR RESPONSIBILITIES
 
 
-If you are a user or a visitor to our our website at https://mothership-dao.github.io/mothership, (hereinafter the “Site”) who is a data subject, we may act both “data controller” or “data processor” of personal data. This means we may determine how and why your or someone’s data are processed or we process some personal data on your or third party’s behalf.
+If you are a user or a visitor to our our website at https://mothershipdao.net, (hereinafter the “Site”) who is a data subject, we may act both “data controller” or “data processor” of personal data. This means we may determine how and why your or someone’s data are processed or we process some personal data on your or third party’s behalf.
 
 
 In some cases, we may not be involved into the processing activity with your personal data at all. This may happen when you use third parties to process your personal data.
