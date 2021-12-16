@@ -24,5 +24,6 @@ layout: page
 **Nina Gunther**
 
 **Gods of Block**
-	*Satwik Gade*
-	*Harsha Gulla*
+
+	Satwik Gade
+	Harsha Gulla
