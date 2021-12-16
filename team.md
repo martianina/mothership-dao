@@ -3,6 +3,9 @@ title: Team
 layout: page
 ---
 
+# Our team IS our community.
+
+
 **Nina Kilbride**
 
 **Jeremy Brown**
@@ -26,4 +29,5 @@ layout: page
 **Gods of Block**
 
 	Satwik Gade
+	
 	Harsha Gulla
